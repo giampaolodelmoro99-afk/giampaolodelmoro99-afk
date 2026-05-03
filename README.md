@@ -19,15 +19,21 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 
 | Categoria | Tecnologia | Livello di Competenza |
 | :--- | :--- | :--- |
-| **Linguaggi** | ☕ Java | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
-| | 🟨 JavaScript | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
-| | 🐘 PHP | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
-| | 🐍 Python | ![35%](https://img.shields.io/badge/Base-35%25-orange) |
-| | 🗄️ SQL | ![35%](https://img.shields.io/badge/Base-35%25-orange) |
-| **Backend** | 🍃 Spring Boot | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
-| | 🔴 Laravel | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
-| | 🟢 Node.js | ![35%](https://img.shields.io/badge/Base-35%25-orange) |
-| **Tools & OS** | 🐧 Linux | ![50%](https://img.shields.io/badge/Intermedio-50%25-yellow) |
+| **Linguaggi** | ☕ Java | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 🟨 JavaScript | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 🐘 PHP | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 🐍 Python | ![35%](https://img.shields.io/badge/████░░░░░░-35%25-orange) |
+| | 🗄️ SQL | ![35%](https://img.shields.io/badge/████░░░░░░-35%25-orange) |
+| **Backend** | 🍃 Spring Boot | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 🔴 Laravel | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 🟢 Node.js / Express | ![35%](https://img.shields.io/badge/███░░░░░░░-35%25-orange) |
+| **Frontend** | 🧡 HTML5 | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 💙 CSS3 | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | ⚛️ React | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| **Tools & OS** | 🧡 Git | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-yellow) |
+| | 🐙 GitHub | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
+| | 🐧 Linux (Ubuntu) | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-yellow) |
+| | 🐳 Docker | ![40%](https://img.shields.io/badge/████░░░░░░-40%25-orange) |
 
 ---
 
