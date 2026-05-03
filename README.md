@@ -17,81 +17,23 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 
 ---
 
-<table>
-  <thead>
-    <tr>
-      <th>Categoria</th>
-      <th>Tecnologia</th>
-      <th>Livello di Competenza</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- LINGUAGGI -->
-    <tr>
-      <td rowspan="5"><b>Linguaggi</b></td>
-      <td>Java</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=007396" alt="Java Intermedio"></td>
-    </tr>
-    <tr>
-      <td>JavaScript</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=F7DF1E" alt="JS Intermedio"></td>
-    </tr>
-    <tr>
-      <td>PHP</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=777BB4" alt="PHP Intermedio"></td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td><img src="https://progress-bar.dev/40/?scale=100&title=Base&width=250&color=3776AB" alt="Python Base"></td>
-    </tr>
-    <tr>
-      <td>SQL</td>
-      <td><img src="https://progress-bar.dev/40/?scale=100&title=Base&width=250&color=4479A1" alt="SQL Base"></td>
-    </tr>
-    <!-- BACKEND -->
-    <tr>
-      <td rowspan="3"><b>Backend</b></td>
-      <td>Spring Boot</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=6DB33F" alt="Spring Intermedio"></td>
-    </tr>
-    <tr>
-      <td>Laravel</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=FF2D20" alt="Laravel Intermedio"></td>
-    </tr>
-    <tr>
-      <td>Node.js / Express</td>
-      <td><img src="https://progress-bar.dev/35/?scale=100&title=Base&width=250&color=339933" alt="Node Base"></td>
-    </tr>
-    <!-- FRONTEND -->
-    <tr>
-      <td rowspan="3"><b>Frontend</b></td>
-      <td>HTML5</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=E34F26" alt="HTML Intermedio"></td>
-    </tr>
-    <tr>
-      <td>CSS3</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=1572B6" alt="CSS Intermedio"></td>
-    </tr>
-    <tr>
-      <td>React</td>
-      <td><img src="https://progress-bar.dev/65/?scale=100&title=Intermedio&width=250&color=61DAFB" alt="React Intermedio"></td>
-    </tr>
-    <!-- TOOLS & OS -->
-    <tr>
-      <td rowspan="3"><b>Tools & OS</b></td>
-      <td>Git</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=F05032" alt="Git Intermedio"></td>
-    </tr>
-    <tr>
-      <td>Linux (Ubuntu)</td>
-      <td><img src="https://progress-bar.dev/70/?scale=100&title=Intermedio&width=250&color=E95420" alt="Linux Intermedio"></td>
-    </tr>
-    <tr>
-      <td>Docker</td>
-      <td><img src="https://progress-bar.dev/35/?scale=100&title=Base&width=250&color=2496ED" alt="Docker Base"></td>
-    </tr>
-  </tbody>
-</table>
+| Categoria | Tecnologia | Livello di Competenza |
+| :--- | :--- | :--- |
+| **Linguaggi** | Java | `███████░░░` 70% (Intermedio) |
+| | JavaScript | `███████░░░` 70% (Intermedio) |
+| | PHP | `███████░░░` 70% (Intermedio) |
+| | Python | `████░░░░░░` 40% (Base) |
+| | SQL | `████░░░░░░` 40% (Base) |
+| **Backend** | Spring Boot | `███████░░░` 70% (Intermedio) |
+| | Laravel | `███████░░░` 70% (Intermedio) |
+| | Node.js / Express | `███░░░░░░░` 35% (Base) |
+| **Frontend** | HTML5 | `███████░░░` 70% (Intermedio) |
+| | CSS3 | `███████░░░` 70% (Intermedio) |
+| | React | `███████░░░` 65% (Intermedio) |
+| **Tools & OS** | Git | `███████░░░` 70% (Intermedio) |
+| | Linux (Ubuntu) | `███████░░░` 70% (Intermedio) |
+| | Docker | `███░░░░░░░` 35% (Base) |
+Perché questa soluzi
 
 ---
 
