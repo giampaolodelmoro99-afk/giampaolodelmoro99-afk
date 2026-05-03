@@ -1,3 +1,8 @@
+# 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=007396&height=250&section=header&text=Ciao,%20sono%20[Gianpaolo Del Moro]&fontSize=70&animation=fadeIn&fontColor=ffffff)
+
+---
+
 # Ciao, sono Gianpaolo Del Moro 👋
 
 ### 👨‍💻 Full Stack Developer 
