@@ -33,7 +33,6 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 | **Tools & OS** | Git | `███████░░░` 70% (Intermedio) |
 | | Linux (Ubuntu) | `███████░░░` 70% (Intermedio) |
 | | Docker | `███░░░░░░░` 35% (Base) |
-Perché questa soluzi
 
 ---
 
