@@ -30,7 +30,7 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 | **Frontend** | 🧡 HTML5 | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
 | | 💙 CSS3 | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
 | | ⚛️ React | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
-| **Tools & OS** | 🧡 Git | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-yellow) |
+| **Tools & OS** | 💾 Git | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-yellow) |
 | | 🐙 GitHub | ![65%](https://img.shields.io/badge/███████░░░-65%25-brightgreen) |
 | | 🐧 Linux (Ubuntu) | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-yellow) |
 | | 🐳 Docker | ![40%](https://img.shields.io/badge/████░░░░░░-40%25-orange) |
