@@ -19,20 +19,16 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 
 | Categoria | Tecnologia | Livello di Competenza |
 | :--- | :--- | :--- |
-| **Linguaggi** | ☕ Java | `███████░░░` 65% (Intermedio) |
-| | 🟨 JavaScript | `███████░░░` 65% (Intermedio) |
-| | 🐘 PHP | `███████░░░` 65% (Intermedio) |
-| | 🐍 Python | `████░░░░░░` 35% (Base) |
-| | 🗄️ SQL | `████░░░░░░` 35% (Base) |
-| **Backend** | 🍃 Spring Boot | `███████░░░` 65% (Intermedio) |
-| | 🔴 Laravel | `███████░░░` 65% (Intermedio) |
-| | 🟢 Node.js / Express | `███░░░░░░░` 35% (Base) |
-| **Frontend** | 🧡 HTML5 | `███████░░░` 65% (Intermedio) |
-| | 💙 CSS3 | `███████░░░` 65% (Intermedio) |
-| | ⚛️ React | `███████░░░` 65% (Intermedio) |
-| **Tools & OS** | 🧡 Git | `█████░░░░░` 50% (Intermedio) |
-| | 🐧 Linux (Ubuntu) | `█████░░░░░` 50% (Intermedio) |
-| | 🐳 Docker | `████░░░░░░` 40% (Base) |
+| **Linguaggi** | ☕ Java | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
+| | 🟨 JavaScript | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
+| | 🐘 PHP | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
+| | 🐍 Python | ![35%](https://img.shields.io/badge/Base-35%25-orange) |
+| | 🗄️ SQL | ![35%](https://img.shields.io/badge/Base-35%25-orange) |
+| **Backend** | 🍃 Spring Boot | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
+| | 🔴 Laravel | ![65%](https://img.shields.io/badge/Intermedio-65%25-brightgreen) |
+| | 🟢 Node.js | ![35%](https://img.shields.io/badge/Base-35%25-orange) |
+| **Tools & OS** | 🐧 Linux | ![50%](https://img.shields.io/badge/Intermedio-50%25-yellow) |
+
 ---
 
 ### 1. 📚 Library Management System
