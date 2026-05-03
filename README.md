@@ -19,20 +19,20 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 
 | Categoria | Tecnologia | Livello di Competenza |
 | :--- | :--- | :--- |
-| **Linguaggi** | Java | `███████░░░` 70% (Intermedio) |
-| | JavaScript | `███████░░░` 70% (Intermedio) |
-| | PHP | `███████░░░` 70% (Intermedio) |
-| | Python | `████░░░░░░` 40% (Base) |
-| | SQL | `████░░░░░░` 40% (Base) |
-| **Backend** | Spring Boot | `███████░░░` 70% (Intermedio) |
-| | Laravel | `███████░░░` 70% (Intermedio) |
+| **Linguaggi** | Java | `███████░░░` 65% (Intermedio) |
+| | JavaScript | `███████░░░` 65% (Intermedio) |
+| | PHP | `███████░░░` 65% (Intermedio) |
+| | Python | `████░░░░░░` 35% (Base) |
+| | SQL | `████░░░░░░` 35% (Base) |
+| **Backend** | Spring Boot | `███████░░░` 65% (Intermedio) |
+| | Laravel | `███████░░░` 65% (Intermedio) |
 | | Node.js / Express | `███░░░░░░░` 35% (Base) |
-| **Frontend** | HTML5 | `███████░░░` 70% (Intermedio) |
-| | CSS3 | `███████░░░` 70% (Intermedio) |
+| **Frontend** | HTML5 | `███████░░░` 65% (Intermedio) |
+| | CSS3 | `███████░░░` 65% (Intermedio) |
 | | React | `███████░░░` 65% (Intermedio) |
-| **Tools & OS** | Git | `███████░░░` 70% (Intermedio) |
-| | Linux (Ubuntu) | `███████░░░` 70% (Intermedio) |
-| | Docker | `███░░░░░░░` 35% (Base) |
+| **Tools & OS** | Git | `█████░░░░░` 50% (Intermedio) |
+| | Linux (Ubuntu) | `█████░░░░░` 50% (Intermedio) |
+| | Docker | `████░░░░░░` 40% (Base) |
 
 ---
 
