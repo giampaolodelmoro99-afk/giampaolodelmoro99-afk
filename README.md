@@ -1,5 +1,5 @@
 # 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=007396&height=250&section=header&text=Ciao,%20sono%20[Gianpaolo Del Moro]&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,007396,6DB33F&height=250&section=header&text=Full%20Stack%20Developer&fontSize=60&fontColor=ffffff)
 
 ---
 
