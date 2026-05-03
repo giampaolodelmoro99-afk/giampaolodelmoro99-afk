@@ -17,6 +17,26 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 
 ---
 
+### 1. 📚 Library Management System
+Un'applicazione per la gestione di un catalogo librario professionale con architetture di database avanzate.
+*   **Relazioni:** Many-to-Many (N:M) tra `Books` ↔ `Authors` e `Books ↔ Categories`.
+*   **Tech Stack:** Laravel, MySQL.
+*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
+
+### 2. 🛒 E-commerce Order Engine
+Sistema per la gestione di ordini e prodotti.
+*   **Relazioni:** One-to-Many (1:N) tra `Customers ↔ Orders` e Many-to-Many (N:M) tra `Orders ↔ Products`.
+*   **Tech Stack:** Laravel, MySQL.
+*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-store-backend)
+
+### 3. 📝 Laravel Task Manager
+Un'applicazione Full Stack completa per la produttività personale con interfaccia reattiva.
+*   **Relazioni:** One-to-Many (1:N) tra `Tasks ↔ Notes`.
+*   **Tech Stack:** Laravel (Backend), JavaScript, HTML5, CSS3.
+*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
+
+---
+
 ### 📫 Contatti
 - **Email**: [giampaolo.delmoro99@gmail.com](mailto:tua-email@esempio.com)
 
