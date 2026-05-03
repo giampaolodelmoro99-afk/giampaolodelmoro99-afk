@@ -41,6 +41,7 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 | | 🐳 Docker | ![40%](https://img.shields.io/badge/████░░░░░░-40%25-orange) |
 
 ---
+### 🚀 Progetti in Evidenza
 
 ### 1. 📚 Library Management System
 Un'applicazione per la gestione di un catalogo librario.
