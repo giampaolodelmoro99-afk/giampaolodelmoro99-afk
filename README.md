@@ -20,6 +20,3 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 ### 📫 Contatti
 - **Email**: [giampaolo.delmoro99@gmail.com](mailto:tua-email@esempio.com)
 
-### 📫 Contatti
-- **LinkedIn**: [linkedin.com/in/gianpaolodelmoro](INSERISCI_IL_TUO_LINK_QUI)
-- **Email**: [tua-email@esempio.com](mailto:tua-email@esempio.com)
