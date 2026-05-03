@@ -38,7 +38,7 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 ---
 
 ### 1. 📚 Library Management System
-Un'applicazione per la gestione di un catalogo librario professionale con architetture di database avanzate.
+Un'applicazione per la gestione di un catalogo librario.
 *   **Relazioni:** Many-to-Many (N:M) tra `Books` ↔ `Authors` e `Books ↔ Categories`.
 *   **Tech Stack:** Laravel, MySQL.
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
