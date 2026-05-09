@@ -46,9 +46,22 @@ Sistema per la gestione di ordini e prodotti.
 
 ### 3. 📝 Laravel Task Manager
 Un'applicazione Full Stack completa per la produttività personale con interfaccia reattiva.
-*   **Relazioni:** One-to-Many (1:N) tra `Tasks ↔ Notes`.
-*   **Tech Stack:** Laravel (Backend), JavaScript, HTML5, CSS3.
-*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
+
+## 📊 Architettura del Database
+
+* **One-to-Many (1:N): Gestione di Users ↔ Tasks** Ogni utente può gestire un numero illimitato di attività personali in modo isolato. La relazione è garantita dalla chiave esterna `user_id` nella tabella `tasks`, che assicura che ogni utente acceda esclusivamente ai propri dati.
+* **One-to-Many (1:N): Gestione di Tasks ↔ Notes** Ogni singolo task può contenere molteplici note di approfondimento per gestire dettagli extra o sotto-obiettivi. La relazione è implementata tramite la chiave esterna `task_id` nella tabella `notes`, con vincolo `cascadeOnDelete` per mantenere la coerenza dei dati alla rimozione di un task.
+
+## 💻 Tech Stack
+
+Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
+
+* **Backend:** Laravel (API RESTful)
+* **Frontend:** JavaScript (Vanilla JS), HTML5, CSS3
+* **Database:** MySQL
+* **Autenticazione:** Laravel Sanctum (Token-based)
+
+[🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
 
 ---
 
