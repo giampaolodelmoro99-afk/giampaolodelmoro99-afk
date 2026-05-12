@@ -59,6 +59,25 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 
 [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
 
+# 🌦️ Weather Dashboard
+
+Una Dashboard meteo moderna e interattiva realizzata in **Vanilla JavaScript**. Il progetto utilizza l'API di **OpenWeatherMap** per fornire dati meteorologici in tempo reale.
+
+## 🚀 Funzionalità
+
+- **Ricerca in tempo reale**: Visualizza le condizioni meteo di qualsiasi città nel mondo.
+- **Dati Dettagliati**: Mostra temperatura arrotondata, descrizione del cielo, umidità, velocità del vento e pressione atmosferica.
+- **Icone Dinamiche**: Le icone cambiano automaticamente in base alle condizioni restituite dall'API.
+- **Gestione Errori**: Feedback visivo se la città non viene trovata o se il campo è vuoto.
+
+## 🛠️ Tecnologie Utilizzate
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **OpenWeatherMap API**: Fonte dati per le informazioni meteorologiche.
+
+[🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/weather-dashboard)
 ---
 
 ### 📫 Contatti
