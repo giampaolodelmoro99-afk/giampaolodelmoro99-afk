@@ -78,6 +78,7 @@ Una Dashboard meteo moderna e interattiva realizzata in **Vanilla JavaScript**. 
 - **OpenWeatherMap API**: Fonte dati per le informazioni meteorologiche.
 
 [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/weather-dashboard)
+
 ---
 
 ### 📫 Contatti
