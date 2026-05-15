@@ -32,13 +32,13 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 
 ### 🚀 Progetti in Evidenza
 
-### 1. 📚 Library Management System
+### 1. 📚 Laravel Library Management System
 Un'applicazione per la gestione di un catalogo librario.
 *   **Relazioni:** Many-to-Many (N:M) tra `Books` ↔ `Authors` e `Books ↔ Categories`.
 *   **Tech Stack:** Laravel, MySQL.
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
 
-### 2. 🛒 E-commerce Order Engine
+### 2. 🛒 Laravel E-commerce Order Engine Larvael
 Sistema per la gestione di ordini e prodotti.
 *   **Relazioni:** One-to-Many (1:N) tra `Customers ↔ Orders` e Many-to-Many (N:M) tra `Orders ↔ Products`.
 *   **Tech Stack:** Laravel, MySQL.
@@ -83,14 +83,13 @@ Una Dashboard meteo moderna e interattiva realizzata in **Vanilla JavaScript**. 
 
 ---
 
-### 🚀 Progetto in evidenza
-
-#### [Task Manager Node.js](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+#### 📋 Task Manager Node.js
 Un'applicazione completa di gestione task con sistema di autenticazione e protezione dei dati.
-*   **Core:** Node.js & Express
-*   **Auth:** JWT & Bcrypt
-*   **Database:** MariaDB
-*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+
+* **Core:** Node.js & Express
+* **Auth:** JWT & Bcrypt
+* **Database:** MariaDB
+* [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
 
 ---
 ### 📫 Contatti
