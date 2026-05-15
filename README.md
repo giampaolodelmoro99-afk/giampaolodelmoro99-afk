@@ -28,6 +28,8 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 | | 🐳 **Docker** | ![40%](https://img.shields.io/badge/████░░░░░░-40%25-2496ED) |
 | | 🐧 **Linux** | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-E95420) |
 
+---
+
 ### 🚀 Progetti in Evidenza
 
 ### 1. 📚 [Laravel Library Management System](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
@@ -65,6 +67,8 @@ Un'applicazione completa di gestione task con sistema di autenticazione e protez
 *   **Auth:** JWT & Bcrypt
 *   **Database:** MariaDB
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+
+---
 
 ### 📫 Contatti
 - **Email**: [giampaolo.delmoro99@gmail.com](mailto:tua-email@esempio.com)
