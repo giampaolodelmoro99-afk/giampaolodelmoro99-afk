@@ -21,7 +21,7 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 | | 🗄️ **SQL** | ![35%](https://img.shields.io/badge/████░░░░░░-35%25-4479A1) |
 | **Backend** | 🍃 **Spring Boot** | ![65%](https://img.shields.io/badge/███████░░░-65%25-6DB33F) |
 | | 🔴 **Laravel** | ![65%](https://img.shields.io/badge/███████░░░-65%25-FF2D20) |
-| | 🟢 **Node.js** | ![35%](https://img.shields.io/badge/███░░░░░░░-35%25-339933) |
+| | 🟢 **Node.js** | ![65%](https://img.shields.io/badge/███░░░░░░░-65%25-339933) |
 | **Frontend** | ⚛️ **React** | ![65%](https://img.shields.io/badge/███████░░░-65%25-61DAFB) |
 | | 🧡 **HTML5/CSS3** | ![65%](https://img.shields.io/badge/███████░░░-65%25-E34F26) |
 | **Tools** | 💾 **Git / GitHub** | ![65%](https://img.shields.io/badge/███████░░░-65%25-F05032) |
@@ -58,6 +58,7 @@ Il progetto è stato sviluppato utilizzando le seguenti tecnologie:
 * **Autenticazione:** Laravel Sanctum (Token-based)
 
 [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
+---
 
 # 🌦️ Weather Dashboard
 
@@ -81,6 +82,16 @@ Una Dashboard meteo moderna e interattiva realizzata in **Vanilla JavaScript**. 
 
 ---
 
+### 🚀 Progetto in evidenza
+
+#### [Task Manager Node.js](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+Un'applicazione completa di gestione task con sistema di autenticazione e protezione dei dati.
+*   **Core:** Node.js & Express
+*   **Auth:** JWT & Bcrypt
+*   **Database:** MariaDB
+*   👉 [Vai alla Repository](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+
+---
 ### 📫 Contatti
 - **Email**: [giampaolo.delmoro99@gmail.com](mailto:tua-email@esempio.com)
 
