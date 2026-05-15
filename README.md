@@ -28,44 +28,43 @@ Benvenuto nel mio spazio GitHub! Sono uno sviluppatore. Mi piace affrontare sfid
 | | 🐳 **Docker** | ![40%](https://img.shields.io/badge/████░░░░░░-40%25-2496ED) |
 | | 🐧 **Linux** | ![50%](https://img.shields.io/badge/█████░░░░░-50%25-E95420) |
 
----
-
 ### 🚀 Progetti in Evidenza
 
-#### 1. 📚 [Laravel Library Management](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
-Sistema per la gestione di un catalogo librario con architettura database complessa.
+### 1. 📚 [Laravel Library Management System](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
+Un'applicazione per la gestione di un catalogo librario.
 *   **Relazioni:** Many-to-Many (N:M) tra `Books` ↔ `Authors` e `Books` ↔ `Categories`.
 *   **Tech Stack:** Laravel, MySQL.
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-library-management-system-backend)
 
-#### 2. 🛒 [Laravel E-commerce Engine](https://github.com/giampaolodelmoro99-afk/laravel-store-backend)
-Motore backend per la gestione di ordini e prodotti e-commerce.
-*   **Relazioni:** One-to-Many (1:N) `Customers` ↔ `Orders` e Many-to-Many (N:M) `Orders` ↔ `Products`.
+### 2. 🛒 [Laravel E-commerce Order Engine](https://github.com/giampaolodelmoro99-afk/laravel-store-backend)
+Sistema per la gestione di ordini e prodotti.
+*   **Relazioni:** One-to-Many (1:N) tra `Customers` ↔ `Orders` e Many-to-Many (N:M) tra `Orders` ↔ `Products`.
 *   **Tech Stack:** Laravel, MySQL.
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-store-backend)
 
-#### 3. 📝 [Laravel Task Manager Full Stack](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
-Applicazione completa per la produttività con gestione utenti e note integrate.
-*   **Relazioni:** One-to-Many (1:N) `Users` ↔ `Tasks` e `Tasks` ↔ `Notes`.
-*   **Tech Stack:** Laravel (API), JavaScript Vanilla, MySQL.
-*   **Auth:** Laravel Sanctum (Token-based).
+### 3. 📝 [Laravel Task Manager](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
+Un'applicazione Full Stack completa per la produttività personale con interfaccia reattiva.
+*   **One-to-Many (1:N): Gestione di Users ↔ Tasks** Ogni utente può gestire un numero illimitato di attività personali in modo isolato.
+*   **One-to-Many (1:N): Gestione di Tasks ↔ Notes** Ogni singolo task può contenere molteplici note di approfondimento.
+*   **Tech Stack:** Laravel (API RESTful), JavaScript (Vanilla JS), HTML5, CSS3, MySQL, Laravel Sanctum.
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/laravel-task-manager)
 
-#### 📋 [Task Manager Node.js](https://github.com/giampaolodelmoro99-afk/task-manager-node)
-Backend robusto per la gestione di attività con focus sulla sicurezza dei dati.
-*   **Core:** Node.js & Express.
-*   **Auth:** JWT & Bcrypt (Hashing password).
-*   **Database:** MariaDB.
-*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+---
 
-#### 🌦️ [Weather Dashboard](https://github.com/giampaolodelmoro99-afk/weather-dashboard)
-Dashboard interattiva che consuma dati in tempo reale tramite API esterne.
-*   **Funzionalità:** Ricerca dinamica, icone meteorologiche evolutive e gestione errori.
-*   **Tech Stack:** JavaScript (ES6+), OpenWeatherMap API.
-*   **UI:** HTML5 & CSS3 moderno.
+### 🌦️ [Weather Dashboard](https://github.com/giampaolodelmoro99-afk/weather-dashboard)
+Una Dashboard meteo moderna e interattiva realizzata in **Vanilla JavaScript**. Il progetto utilizza l'API di **OpenWeatherMap** per fornire dati meteorologici in tempo reale.
+*   **Funzionalità:** Ricerca in tempo reale, Dati Dettagliati, Icone Dinamiche, Gestione Errori.
+*   **Tecnologie Utilizzate:** HTML5, CSS3, JavaScript (ES6+), OpenWeatherMap API.
 *   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/weather-dashboard)
 
 ---
+
+### 📋 [Task Manager Node.js](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+Un'applicazione completa di gestione task con sistema di autenticazione e protezione dei dati.
+*   **Core:** Node.js & Express
+*   **Auth:** JWT & Bcrypt
+*   **Database:** MariaDB
+*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
 
 ### 📫 Contatti
 - **Email**: [giampaolo.delmoro99@gmail.com](mailto:tua-email@esempio.com)
