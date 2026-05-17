@@ -70,6 +70,20 @@ Un'applicazione completa di gestione task con sistema di autenticazione e protez
 
 ---
 
+## 🛠️ Ultimi Progetti Sviluppati
+
+### 📊 [Gestione Spese API (Expense Tracker)](https://github.com/giampaolodelmoro99-afk/gestione-spese-node)
+Un'API RESTful per la gestione e il tracciamento delle finanze personali, sviluppata con un'architettura backend moderna.
+
+* **Backend Core:** Sviluppato in **Node.js** ed **Express** con gestione dinamica delle variabili d'ambiente (`dotenv`).
+* **Database Relazionale:** Integrazione con **MariaDB**, ottimizzato con pool di connessioni e vincoli di integrità referenziale ad effetto cascata (`ON DELETE CASCADE`).
+* **Sicurezza & Protezione:** Autenticazione basata su **JSON Web Tokens (JWT)** e hashing delle password con **Bcrypt**.
+* **Logica Finanziaria:** Calcolo in tempo reale del bilancio complessivo aggregando in modo matematico entrate e uscite.
+
+*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/gestione-spese-node)
+
+---
+
 ### 📫 Contatti
 - **Email**: [giampaolo.delmoro99@gmail.com](mailto:tua-email@esempio.com)
 
