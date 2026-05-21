@@ -62,12 +62,16 @@ Una Dashboard meteo moderna e interattiva realizzata in **Vanilla JavaScript**. 
 ---
 
 ### 📋 [Task Manager Node.js](https://github.com/giampaolodelmoro99-afk/task-manager-node)
-Un'applicazione completa di gestione task con sistema di autenticazione e protezione dei dati.
-*   **Core:** Node.js & Express
-*   **Auth:** JWT & Bcrypt
-*   **Database:** MariaDB
-*   [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
 
+Un'applicazione backend per la gestione di task e produttività personale, potenziata da servizi meteo in tempo reale e intelligenza artificiale.
+
+* **Backend Core:** Node.js & Express
+* **Auth:** JWT & Bcrypt
+* **Database:** MariaDB
+* **Weather:** OpenWeatherMap API
+* **AI:** Google Gemini (Generative AI)
+
+[🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
 ---
 
 ### 📊 [Gestione Spese Node.js](https://github.com/giampaolodelmoro99-afk/gestione-spese-node)
