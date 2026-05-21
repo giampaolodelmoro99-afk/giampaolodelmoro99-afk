@@ -82,7 +82,7 @@ Un'API RESTful per la gestione e il tracciamento delle finanze personali, svilup
 
 ---
 
-### 📑 Address Book API (Node.js & Express)
+### 📑 [Address Book API (Node.js & Express)](https://github.com/giampaolodelmoro99-afk/progetto-node-rubrica)
 
 **Address Book API** è un backend RESTful in **Node.js & Express** progettato per la gestione sicura e isolata di una rubrica contatti personale. 
 
