@@ -72,6 +72,7 @@ Un'applicazione backend per la gestione di task e produttività personale, poten
 * **AI:** Google Gemini (Generative AI)
 
 [🔗 Vai al Progetto](https://github.com/giampaolodelmoro99-afk/task-manager-node)
+
 ---
 
 ### 📊 [Gestione Spese Node.js](https://github.com/giampaolodelmoro99-afk/gestione-spese-node)
